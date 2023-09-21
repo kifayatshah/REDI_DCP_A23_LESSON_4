@@ -1,0 +1,74 @@
+{
+    "quotes": [
+        {
+            "id": 1,
+            "date": "01/01/2023",
+            "author": "Epictetus",
+            "book": "Discourses",
+            "quote": "The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to do with the choices I actually control. Where then do I look for good and evil? Not to uncontrollable externals, but within myself to the choices that are my own ..."
+        },
+        {
+            "id": 2,
+            "date": "02/01/2023",
+            "author": "Epictetus",
+            "book": "Discourses",
+            "quote": "What is the fruit of these teachings? Only the most beautiful and proper harvest of truely educated - tranquility, fearlessness and freedom. We should not trust the masses who say only the free can be educated, but rather the lovers of wisdom who who say that only the educated are free."
+        },
+        {
+            "id": 3,
+            "date": "03/01/2023",
+            "author": "Seneca",
+            "book": "On the Brevity of Life",
+            "quote": "How many have laid waste to your life when you weren't aware of what you were losing, how much was wasted in pointless grief, foolish joy, greedy desire, and social amusements - how litte of your own was left to you. You will realize you are dying before your time!"
+        },
+        {
+            "id": 4,
+            "date": "04/01/2023",
+            "author": "Marcus Aurelius",
+            "book": "Meditations",
+            "quote": "All you need are these: certainy of judgment in the present moment; action for the common good in the present moment; and an attiude of gratitude in the present moment for aynthing that comes your way."
+        },
+        {
+            "id": 5,
+            "date": "06/01/2023",
+            "author": "Seneca",
+            "book": "On Transquility of Mind",
+            "quote": "Let all your efforts be directed to something, let it keep that end in view. It's not activity that distrubs people, but false conceptions of things that drive them mad."
+        },
+        {
+            "id": 6,
+            "date": "06/01/2023",
+            "author": "Marcus Aurelius",
+            "book": "Meditations",
+            "quote": "A person who doesn't know what the universe is, doesn't know where they are. A person who doesn't know their purpose in life doesn't know who they are or what the universe is. A person who doesn't know any one of these things doesn't know why they are here. So what to make of people who seek or avoid the praise of those who have no knowledge of where or who they are?"
+        },
+        {
+            "id": 7,
+            "date": "07/01/2023",
+            "author": "Epictetus",
+            "book": "Discourses",
+            "quote": "The proper work of the mind is the exercise of choice, refusal, yearning, repulsion, preparation, purpose, and assent. What then can pollute and cloge mind's proper functioning? Nothing but its own corrupt decisions."
+        },
+        {
+            "id": 8,
+            "date": "08/01/2023",
+            "author": "Seneca",
+            "book": "Moral Letters",
+            "quote": "We must give up many things to which we are addicted, considering them to be good. Otherwise, courage will vanish, which should continually test itself. Greatness of soul will be lost, which can't stand out unless it disdains as petty what the mob regards as most desirable."
+        },
+        {
+            "id": 9,
+            "date": "09/01/2023",
+            "author": "Epictetus",
+            "book": "Enchiridion",
+            "quote": "Some things are in our control, while others are not. We control our opinion, choice, desire, aversion, and, in a word, everything of our own doing. We don't control our body, property, reputation, position, and in a word, everything not of our own doing. Even more, the things in our control are by nature free, unhindered, and unobstructed, while those not in our control are weak, slavish, can be hindered, and are not our own."
+        },
+        {
+            "id": 10, 
+            "date": "10/01/2023",
+            "author": "Epictetus",
+            "book": "Discourses",
+            "quote": "The essence of good is a certain kind of reasoned choice; just as the essence of evil is another kind. What about externals, then? They are only the raw material four our reasoned choice, which finds its own good or evil in working with them. How will it find the good? Not by marveling at the material! For if judgments about the material are straight that makes our choices good, but if those judgments are twisted, our choices turn bad."
+        }
+    ] 
+}
