@@ -18,8 +18,16 @@ with open("exercise_3/data.json", "r") as file:
 #
 
 # Write your code here
+<<<<<<< HEAD
 '''for quote in quotes["quotes"]:
     x=quote["author"]
     y= quote["quote"]
     print(f"{y}\n", f"by {x}\n")
 '''
+=======
+list_of_quotes = quotes["quotes"]
+for i in range(len(list_of_quotes)):
+    quote = list_of_quotes[i]["quote"]
+    author = list_of_quotes[i]["author"]
+    print(f"{quote}\nby {author}\n")
+>>>>>>> 62be41add9d3189d4ffd1faa885dfff2097219c6
